@@ -32,7 +32,8 @@ Imported seaborn and matplotlib.pyplot for visualization.
 Created a box plot to visualize potential outliers in the 'Age' column, using sns.boxplot().
 Calculated the interquartile range (IQR) for the 'Fare' column.
 Defined upper and lower bounds to identify and remove outliers in the 'Fare' column.
-In Summary
 
-Your notebook covers essential data preprocessing steps, including loading, exploring, handling missing values, converting categorical data, normalizing numeric features, and visualizing/removing outliers. By following this data cleaning and preparation process, you create a refined dataset that's better suited for applying Machine Learning models.
+In Summary:-
+
+This notebook covers essential data preprocessing steps, including loading, exploring, handling missing values, converting categorical data, normalizing numeric features, and visualizing/removing outliers. By following this data cleaning and preparation process, I create a refined dataset that's better suited for applying Machine Learning models.
 
